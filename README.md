@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharath-Eganadane
 - 👀 I’m interested in Data Analytics, Project Management, Continuous Improvement, Quality systems, Lean Engineering
 - 🌱 I’m currently learning PowerBI, Project management 
-- 💞️ I’m looking to collaborate on Data analysis using python
+- 💞️ I’m looking to collaborate on Data analysis projects
 - 📫 You can reach me at LinkedIn - https://www.linkedin.com/in/sharath-eganadane-72b4a9166/
 
 <!---
